@@ -1,7 +1,7 @@
 The Utility Client License
 ==========================
 Copyright (c) GamingCraft_hd 2020
-<br>Last Edit: 18.08.2020 by GamingCraft_hd
+<br>Last Edit: 03.09.2020 by GamingCraft_hd
 
 The Source-Code
 ---------------
@@ -21,3 +21,13 @@ We are allowed to
 - Make the source-code closed source at any time
 - Archive our source-code at any time
 - Edit this license at any time
+
+The Software
+------------
+With software, we mean the Installer, Updater and Client.
+
+We are modifing following files using the installer and the updater
+- The Versions folder of Minecraft (%appdata%/.minecraft/versions)
+- The Auto-Start folder (shell:autostart)
+- The Temp folder (%temp%/utilityclient)
+- And if needed (due to config rewrites etc.) the Configs of the Client (%appdata%/.minecraft/_utilityclient.conf)
