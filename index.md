@@ -1,7 +1,5 @@
-The Utility Client License
-==========================
 Copyright (c) GamingCraft_hd 2020-2021
-<br>Last Edit: 28.01.2020 by GamingCraft_hd
+<br>Last Edit: 28.01.2021 by GamingCraft_hd
 
 - With we, we mean GamingCraft_hd, the author of Utility-Client, Ashley-Bot and many other projects.
 - With you, we mean the consumer of the license.
